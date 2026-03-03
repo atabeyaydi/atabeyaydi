@@ -86,15 +86,6 @@ I bridge the gap between hardware and software, specializing in building scalabl
 </div>
 
 ---
----
-
-### 💻 Technologies & Tools
-* **Languages:** C#, Java, Python, Verilog HDL, JavaScript/TypeScript.
-* **Backend:** ASP.NET Core, EF Core, MSSQL, Spring Boot.
-* **Frontend:** Next.js, React, Tailwind CSS.
-* **AI/Embedded:** Arduino, Velostat Sensors, Deep Learning (CNN/LSTM), Computer Vision.
-
----
 
 <div align="center">
 
