@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Atabey Aydi 👋
+# Hi, I'm Atabey!
 
 ### ⚡ Electrical-Electronics Engineer · 🛡️ Cybersecurity · 🤖 AI Engineering · 📊 Data Analytics · 🔧 Software Development & Quality OpEx
 
