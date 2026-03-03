@@ -78,18 +78,6 @@ I'm a multidisciplinary engineer and developer standing at the intersection of *
 
 ---
 
-## 📌 Featured Project
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atabeyaydi&repo=Python-Training-For-Cybersecurity&show_owner=true&theme=tokyonight&hide_border=true)](https://github.com/atabeyaydi/Python-Training-For-Cybersecurity)
-
----
-
-## 📫 Get In Touch
-
-- 💼 **LinkedIn:** [linkedin.com/in/atabey-aydi](https://www.linkedin.com/in/atabey-aydi)
-- 🐙 **GitHub:** [@atabeyaydi](https://github.com/atabeyaydi)
-
----
 
 <div align="center">
 
