@@ -24,6 +24,16 @@ I'm a multidisciplinary engineer and developer standing at the intersection of *
 
 ---
 
+### 🛠️ Expertise & Technical Focus
+I bridge the gap between hardware and software, specializing in building scalable backend architectures and integrating AI-driven insights into embedded systems.
+
+* **Full-Stack Development:** Specialized in **.NET Web API**, **Entity Framework Core**, **MSSQL**, and **JWT Authentication**.
+* **Java Ecosystem:** Experience in enterprise-level Java, Android development, and OOP principles.
+* **Embedded Systems & HDL:** Expert in **Verilog HDL**, **C/C++** for microcontrollers, and wireless remote monitoring systems.
+* **AI & Machine Learning:** Implementing **CNN** and **LSTM** models for Computer Vision and time-series analysis.
+
+---
+
 ## 🧰 Tech Stack & Tools
 
 ### Languages
@@ -70,14 +80,21 @@ I'm a multidisciplinary engineer and developer standing at the intersection of *
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atabeyaydi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atabeyaydi&layout=compact&theme=tokyonight&hide_border=true)
+![Atabey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atabeyaydi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atabeyaydi&layout=compact&theme=radical&langs_count=8)
 
 </div>
 
 ---
+---
 
+### 💻 Technologies & Tools
+* **Languages:** C#, Java, Python, Verilog HDL, JavaScript/TypeScript.
+* **Backend:** ASP.NET Core, EF Core, MSSQL, Spring Boot.
+* **Frontend:** Next.js, React, Tailwind CSS.
+* **AI/Embedded:** Arduino, Velostat Sensors, Deep Learning (CNN/LSTM), Computer Vision.
+
+---
 
 <div align="center">
 
