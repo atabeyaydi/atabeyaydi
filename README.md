@@ -33,6 +33,16 @@ I'm a multidisciplinary engineer and developer standing at the intersection of *
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+#### Language Usage
+
+| Language | How I use it |
+|---|---|
+| Python | ML/AI experiments, automation tooling, and security scripts |
+| SQL | Analytics, reporting, and data modeling across cloud datasets |
+| JavaScript | Lightweight dashboards, API integrations, and quick UI prototypes |
+| C | Low-level and embedded work that bridges hardware with software |
+| Bash | Scripting for DevOps, CI, and repeatable system tasks |
+
 ### AI / Data / Analytics
 ![Azure ML](https://img.shields.io/badge/Azure_ML-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -70,9 +80,13 @@ I'm a multidisciplinary engineer and developer standing at the intersection of *
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atabeyaydi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atabeyaydi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atabeyaydi&layout=compact&theme=tokyonight&hide_border=true)
+![Contribution Streak](https://streak-stats.demolab.com?user=atabeyaydi&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atabeyaydi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atabeyaydi&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -84,4 +98,3 @@ I'm a multidisciplinary engineer and developer standing at the intersection of *
 *"Engineering is not only about solving problems — it's about understanding systems deeply enough to prevent them."*
 
 </div>
-
