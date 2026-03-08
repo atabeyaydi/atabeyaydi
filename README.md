@@ -76,20 +76,6 @@ I bridge the gap between hardware and software, specializing in building scalabl
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=atabeyaydi&theme=radical)](https://git.io/streak-stats)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=atabeyaydi&theme=radical&no-frame=true&row=1)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atabeyaydi&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <div align="center">
 
 *"Engineering is not only about solving problems — it's about understanding systems deeply enough to prevent them."*
