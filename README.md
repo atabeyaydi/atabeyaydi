@@ -64,6 +64,20 @@ I bridge the gap between hardware and software, specializing in building scalabl
 
 ---
 
+## 🔥 My Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atabeyaydi&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atabeyaydi&theme=tokyonight&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atabeyaydi&theme=tokyonight)
+
+</div>
+
+---
+
 ## 🏆 Key Focus Areas
 
 | Domain | Focus |
