@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a multidisciplinary engineer and developer standing at the intersection of **hardware**, **software**, **security**, and **intelligence**. With a foundation in Electrical-Electronics Engineering and a passion for cutting-edge technologies, I build solutions that span from low-level systems to AI-driven applications.
+I'm a multidisciplinary engineer and developer standing at the intersection of **hardware**, **software**, **security**, and **intelligence**. With a foundation in Electrical-Electronics Engineering a[...]  
 
 - 🎓 **Electrical-Electronics Engineer** – deep understanding of hardware, embedded systems, and signal processing
 - 💻 **Software Developer** – backend development, system design, and operational excellence (OpEx)
@@ -68,11 +68,11 @@ I bridge the gap between hardware and software, specializing in building scalabl
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atabeyaydi&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atabeyaydi&background=ffffff&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atabeyaydi&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atabeyaydi&layout=compact&bg_color=ffffff&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atabeyaydi&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atabeyaydi&bg_color=ffffff&hide_border=true)
 
 </div>
 
@@ -95,4 +95,3 @@ I bridge the gap between hardware and software, specializing in building scalabl
 *"Engineering is not only about solving problems — it's about understanding systems deeply enough to prevent them."*
 
 </div>
-
