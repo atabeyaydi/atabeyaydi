@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi, I'm Atabey! ![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=Atabey%20Aydı&fontSize=90)
+# Hi, I'm Atabey! 
+![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=Atabey%20Aydı&fontSize=90)
 
 
 ### ⚡ Electrical-Electronics Engineer · 🛡️ Cybersecurity · 🤖 AI Engineering · 📊 Data Analytics · 🔧 Hardware Design and Software Development · Quality Management and Methods
