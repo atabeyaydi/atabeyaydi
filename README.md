@@ -3,6 +3,11 @@
 # Hi, I'm Atabey! 
 ![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=Atabey%20Aydı&fontSize=90)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Atabey+Aydı;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+
+![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Atabey%20Aydı&fontSize=70&animation=fadeIn)
+
+
 
 ### ⚡ Electrical-Electronics Engineer · 🛡️ Cybersecurity · 🤖 AI Engineering · 📊 Data Analytics · 🔧 Hardware Design and Software Development · Quality Management and Methods
 
