@@ -2,7 +2,7 @@
 
 # Hi, I'm Atabey!
 
-### ⚡ Electrical-Electronics Engineer · 🛡️ Cybersecurity · 🤖 AI Engineering · 📊 Data Analytics · 🔧 Software Development & Quality OpEx
+### ⚡ Electrical-Electronics Engineer · 🛡️ Cybersecurity · 🤖 AI Engineering · 📊 Data Analytics · 🔧 Hardware Design and Software Development · Quality Management and Methods
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atabey-aydi)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17712384/atabey)
