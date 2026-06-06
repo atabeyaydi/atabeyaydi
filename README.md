@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi, I'm Atabey!
+# Hi, I'm Atabey! ![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=Atabey%20Aydı&fontSize=90)
+
 
 ### ⚡ Electrical-Electronics Engineer · 🛡️ Cybersecurity · 🤖 AI Engineering · 📊 Data Analytics · 🔧 Hardware Design and Software Development · Quality Management and Methods
 
@@ -73,6 +74,11 @@ I bridge the gap between hardware and software, specializing in building scalabl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atabeyaydi&layout=compact&bg_color=ffffff&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atabeyaydi&bg_color=ffffff&hide_border=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atabeyaydi&theme=visual_studio_dark)
+
+[![Activity Graphics](https://github-readme-activity-graph.vercel.app/graph?username=atabeyaydi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 </div>
 
