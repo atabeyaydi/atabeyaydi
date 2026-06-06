@@ -1,13 +1,8 @@
-<center>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F75C7E&width=1000&lines=Full+Stack+Developer+/+Open+Source+Contributor+/+Embedded+Software+Engineer" alt="Typing SVG" />
-  </a>
-</center>
-
-
 <div align="center">
 
-# Hi, I'm Atabey! 
+# Hellos, I'm Atabey! 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F75C7E&width=1000&lines=Full+Stack+Developer+/+Open+Source+Contributor+/+Embedded+Software+Engineer)](https://git.io/typing-svg)
 
 ### ⚡ Electrical-Electronics Engineer · 🛡️ Cybersecurity · 🤖 AI Engineering · 📊 Data Analytics · 🔧 Hardware Design and Software Development · Quality Management and Methods
 
